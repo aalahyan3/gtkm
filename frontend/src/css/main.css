@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Dosis', sans-serif;
+  color: #fff;
+}
+
+.users-list
+{
+	height: 800px;
+}
+.users-list::-webkit-scrollbar
+{
+	width: 2px;
+	background-color: rgb(128, 128, 128);
+}
+.users-list::-webkit-scrollbar-thumb
+{
+	background-color: rgb(234, 179, 8);
+}
+
+.login-form{
+	max-width: 800px;
+}
