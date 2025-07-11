@@ -8,4 +8,3 @@ basic Fullstack Training, a MERN based project, a User login/signin an see other
 4. A chance to get adapted to tailwind CSS instead of bootstrap (Mush more better)
 5. Session tracking using JWT (jsonwebtoken) loaded as Cookies (safer)
 
-### for any adjustement suggestions :  `me.a.alahyane@gmail.com`
